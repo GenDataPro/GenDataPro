@@ -1,47 +1,40 @@
-# Daniela Lopes Cardoso
+# GenDataPro
 
-Biochemist and computational researcher working at the interface of
-nucleic acid biology, genomics, transcriptomics and bioinformatics.
+Historical computational research archive of Daniela Lopes Cardoso.
 
-My research combines experimental biology with computational analysis,
-with particular interests in regulatory RNA, RNA-RNA interactions,
-sequencing data and reproducible biological data analysis.
+This account preserves selected earlier bioinformatics and computational
+biology projects and their research provenance.
 
-## Research interests
+## Organismal Complexity
 
-- Regulatory RNAs and RNA–RNA interactions
-- Genomics and transcriptomics
-- Sequencing data analysis
-- Comparative genomics
-- Nucleic acid biology
-- Reproducible computational research
+Computational analysis associated with the 2017 PLOS ONE study:
 
-## Computational work
+**Lopes Cardoso D, Sharpe C (2017).**  
+*Relating protein functional diversity to cell type number identifies genes
+that determine dynamic aspects of chromatin organisation as potential
+contributors to organismal complexity.*  
+**PLOS ONE 12(9): e0185409.**
 
-### Comparative genomics and protein functional complexity
+The original Python/Ensembl REST analysis and a later R/BioMart
+redevelopment are preserved in:
 
-Development and application of Python and R approaches for comparative
-genomic analysis, including programmatic access to Ensembl data,
-orthologue identification and quantitative analysis of protein
-functional complexity.
+**[organismal-complexity](https://github.com/GenDataPro/organismal-complexity)**
 
-### sRNA-mRNA target prioritisation
+The 2017 publication originally referenced this `GenDataPro/GenDataPro`
+repository as the location of the analysis code. The files have since been
+reorganised into the dedicated repository above while their original Git
+history remains preserved here.
 
-Development of a reproducible workflow for integrating bacterial sRNA
-target predictions with genomic, transcriptomic and functional evidence.
+## RateMySplice
 
-*Project currently in development.*
+An early Python prototype exploring sequence changes capable of generating
+candidate splice-donor motifs.
 
-## Computational approaches
+**[RateMySplice](https://github.com/GenDataPro/RateMySplice)**
 
-**Languages:** R, Python
+---
 
-**Bioinformatics:** sequence analysis, transcriptomics, comparative genomics,
-RNA interaction analysis and genomic visualisation
+This account is retained as a historical research archive.
 
-**Research computing:** Linux, Git/GitHub, Conda, Ensembl, BioMart and REST APIs
-
-## Current focus
-
-Developing computational approaches that integrate experimental,
-genomic and transcriptomic evidence to answer biological questions.
+Current research software and actively developed bioinformatics projects
+are maintained separately.
