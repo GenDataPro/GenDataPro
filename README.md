@@ -1,7 +1,10 @@
 # GenDataPro
 
 Historical computational research archive of Daniela Lopes Cardoso.
-
+> **This profile is an archive of earlier computational and research projects.**
+>
+> My current professional GitHub profile is [DLopesCardoso](https://github.com/DLopesCardoso).
+> 
 This account preserves selected earlier bioinformatics and computational
 biology projects and their research provenance.
 
